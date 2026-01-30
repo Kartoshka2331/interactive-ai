@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+openai
+asyncssh
+aiofiles
+loguru
+rich
+questionary
+python-dotenv
